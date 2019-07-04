@@ -1,4 +1,4 @@
-// defer call calculate all the arguments of a method right away
+// defer call evaluates all the arguments of a method right away
 // but doesnt call the method until the wrapped method returns
 
 package main
